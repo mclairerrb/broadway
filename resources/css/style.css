@@ -41,9 +41,15 @@ p {
 	padding: 3px;
 }
 
-.footer {
+.footer p {
 	font-size: 11px;
 	color: white;
 	background-color: dimgray;
 	text-align: left;
+}
+span a {
+	color: white;
+	font-size: 14px; 
+	background-color: dimgray;
+	display: inline;
 }
